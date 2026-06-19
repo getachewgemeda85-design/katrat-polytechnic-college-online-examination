@@ -1,0 +1,6 @@
+{
+  "name": "Katrat Polytechnic College Online Examination System",
+  "description": "A responsive and professional Online Examination System for students and administrators at Katrat Polytechnic College, featuring interactive MCQ examinations, scoring analytics, dynamic question management, and local data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
