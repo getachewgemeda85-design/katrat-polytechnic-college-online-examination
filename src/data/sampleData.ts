@@ -182,7 +182,7 @@ export const INITIAL_EXAMS: Exam[] = [
 export const SAMPLE_USERS: User[] = [
   {
     username: 'student',
-    name: 'Aron Mukerji',
+    name: 'Asmamaw Agefari',
     role: 'student',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150',
     department: 'Computer Technology Department',
@@ -190,7 +190,7 @@ export const SAMPLE_USERS: User[] = [
   },
   {
     username: 'admin',
-    name: 'Prof. Helen Roberts',
+    name: 'Getachew Gemeda',
     role: 'admin',
     avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=150',
     department: 'Examination Control Board',
@@ -201,7 +201,7 @@ export const INITIAL_ATTEMPTS: Attempt[] = [
   {
     id: 'att-1',
     studentUsername: 'student',
-    studentName: 'Aron Mukerji',
+    studentName: 'Kassaye Kora',
     examId: 'exam-1',
     examTitle: 'Computer Science: Advanced Data Structures & Algorithms',
     courseCode: 'CS-301',
